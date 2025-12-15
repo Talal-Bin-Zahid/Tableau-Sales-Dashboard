@@ -1,7 +1,7 @@
 # 📊 Tableau-Sales-Dashboard
 
 <img width="999" height="550" alt="Screenshot 2025-11-21 023021" src="https://github.com/user-attachments/assets/c9f3225b-e11d-4761-8b70-7403253a7a46" />
-This is the **Sales Dashboard**, a dynamic visualization created using **Tableau**. The primary purpose of this dashboard is to provide sales leadership and stakeholders with a clear, data-driven summary of the 2023 financial performance, focusing on key sales indicators, profitability, volume, and product subcategory success.
+This is the Sales Dashboard, a dynamic visualization created using Tableau. The primary purpose of this dashboard is to provide sales leadership and stakeholders with a clear, data-driven summary of the 2023 financial performance, focusing on key sales indicators, profitability, volume, and product subcategory success.
 
 ---
 
